@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blackarck, Vivek.
-- 👀 I am working as a developer for 15 years, working primarily in ERP. Experienced in database, application development and integration. Enjoy game & web app development.
+- 👀 I am working as a developer for 17 years, working primarily in ERP. Experienced in database- SQL, application development and integration. Enjoy game & web app development.
 - 🌱 Currently trying to contribute towards open source projects
-- 💞️ Looking to collaborate on interesting projects big or small.
+- 💞️ Looking to collaborate on interesting projects 
 - 📫 Feel free to drop me a line twitter @blackarck, blackarck@gmail.com
 
 <!---
