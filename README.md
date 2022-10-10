@@ -18,4 +18,4 @@ Links
 Web Application I developed
 
 - [Praksheet](https://praksheet.com)- Web app to manage search and print practice worksheets
-- [Sudoku App(https://sudoku.ioblitz.com) - Sudoku game developed in react with back end to support game save, compete with friends
+- [Sudoku App](https://sudoku.ioblitz.com) - Sudoku game developed in react with back end to support game save, compete with friends
