@@ -13,6 +13,7 @@ Links
 - [Youtube](https://www.youtube.com/channel/UC9R0-fL6f_yE9sv7Zkb98CA) 
 - [Twitter](https://twitter.com/blackarck)
 - [LinkedIn](https://www.linkedin.com/in/viveks620/)
+- [Itch.io](https://blackarck.itch.io/)
 
 
 Web Application I developed
