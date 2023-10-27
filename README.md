@@ -20,3 +20,4 @@ Web Application I developed
 
 - [Praksheet](https://praksheet.com)- Web app to manage search and print practice worksheets
 - [Sudoku App](https://sudoku.ioblitz.com) - Sudoku game developed in react with back end to support game save, compete with friends
+- Discord Sudoku Bot - Bot that can be added to a discord server. Facilitates Sudoku game play inside server. Stores Game state using API. Hosted on AWS, linked with SQLite DB [URL](https://discord.com/api/oauth2/authorize?client_id=795345587703644180&permissions=2183991392320&scope=bot)
