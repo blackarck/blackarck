@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blackarck, Vivek.
-- 👀 I am a developer/ Software Architect with 17 years of experience, working primarily in ERP. Experienced in database- SQL, application development and integration. Enjoy game & web app development. My hobbies are reading, painting trying to get into writing. My [art portfolio](artstation.com/blackarck)
+- 👀 I am a developer/ Software Architect with 17 years of experience, working primarily in ERP. Experienced in database- SQL, application development and integration. Enjoy game & web app development. My hobbies are reading, painting trying to get into writing. My [art portfolio](https://artstation.com/blackarck)
 - 🌱 Currently trying to contribute towards open source projects
 - 💞️ Looking to collaborate on interesting projects 
 - 📫 Feel free to drop me a line twitter @blackarck, blackarck@gmail.com
