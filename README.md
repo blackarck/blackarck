@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @blackarck, Vivek.
-- 👀 I am a developer/ Software Architect with 17 years of experience, working primarily in ERP. Experienced in database- SQL, application development and integration. Enjoy game & web app development. My hobbies are reading, painting trying to get into writing. My [art portfolio](https://artstation.com/blackarck)
+- 👀 I am a developer/ Software Architect with 17 years of experience, working primarily in Cloud, AI & ERP. Experienced in Cloud architecture, AI , application development and integration. Enjoy game & web app development. My hobbies are reading, painting trying to get into writing. My [art portfolio](https://artstation.com/blackarck)
 - 🌱 Currently trying to contribute towards open source projects
 - 💞️ Looking to collaborate on interesting projects 
 - 📫 Feel free to drop me a line twitter @blackarck, blackarck@gmail.com
+- 📽️ Developed multiple small products which was a lot of fun ( refer to youtube vid for posts)
 
 <!---
 blackarck/blackarck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +17,7 @@ Links
 - [Itch.io](https://blackarck.itch.io/)
 
 
-Projects I developed
+Public Projects I developed
 
 - [Praksheet](https://praksheet.com)- Web app to manage search and print practice worksheets
 - [Sudoku App](https://sudoku.ioblitz.com) - Sudoku game developed in react with back end to support game save, compete with friends
