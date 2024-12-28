@@ -27,4 +27,4 @@ You can click the Preview link to take a look at your changes.
 ## Discord Bot Project
 - [NumberLogicGame Bot](https://discord.com/oauth2/authorize?client_id=1168555643939078215) - A bot using which you can play a number logic guessing game based on feedback on previous guess Stores Game state using API. Hosted on AWS, linked with SQLite DB
 - [Sudoku Bot](https://discord.com/oauth2/authorize?client_id=795345587703644180) - A bot to play sudoku game inside sudoku, you can play at your own pace Stores Game state using API. Hosted on AWS, linked with SQLite DB
-- LinkedIn scheduled app that posts comic every day, it is developed using Azure functions and Azure AI ( gpt4o)
+- LinkedIn scheduled app that posts comic every day, it is developed using Azure functions and Azure AI ( gpt4o), head to [LinkedIn](https://www.linkedin.com/in/viveks620/) URL to view same
