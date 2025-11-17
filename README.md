@@ -2,7 +2,7 @@
 - 👀 I am a developer with over 20 years of experience, working primarily in Cloud, AI & ERP. Experienced in Cloud architecture, AI , application development and integration. Enjoy game & web app development. My hobbies are reading, painting, writing.
 -  [art portfolio](https://artstation.com/blackarck)
 - 💞️ Looking to collaborate on interesting projects 
-- 📫 Feel free to drop me a line twitter @blackarck, blackarck@gmail.com
+- 📫 Feel free to drop me a line blackarck@gmail.com
 - 📽️ Developed multiple small products 
 
 <!---
@@ -23,6 +23,7 @@ You can click the Preview link to take a look at your changes.
 - [Praksheet](https://praksheet.com)- Web app to manage search and print practice worksheets
 - [Sudoku App](https://sudoku.ioblitz.com) - Sudoku game developed in react with back end to support game save, compete with friends
 - [20 questions game using AI](https://blackarck.itch.io/twenty-questions-with-ai-chatgpt) - Play Twenty question games with Chat GPT, User Interface is designed in GoDot
+- [Dotnet Console Game](https://github.com/blackarck/TerminalBlaster) - Play a shooter game in your console
  
 ## Discord Bot Project
 - [NumberLogicGame Bot](https://discord.com/oauth2/authorize?client_id=1168555643939078215) - A bot using which you can play a number logic guessing game based on feedback on previous guess Stores Game state using API. Hosted on AWS, linked with SQLite DB
