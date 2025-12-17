@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @blackarck, Vivek.
-### Founder • Builder • Game-Maker • Mixing spirituality with software engineering
+### Founder • Builder • Game-Maker 
+Mixing software engineering with creativity, systems thinking, and a touch of spirituality.
 
-- 👀 I am a developer with over 20 years of experience, working primarily in Cloud, AI & ERP. Founder of Proso.ai & Workwall.com Experienced in Cloud architecture, AI , application development and integration. Enjoy game & web app development. My hobbies are reading, painting, writing.
+- I am a developer with over 20 years of experience, working primarily in Cloud, AI & ERP. Founder of Proso.ai & Workwall.com Experienced in Cloud architecture, AI , application development and integration. Enjoy game & web app development. My hobbies are reading, painting, writing.
 -  [art portfolio](https://artstation.com/blackarck)
 - 💞️ Looking to collaborate on interesting projects 
 - 📫 Feel free to drop me a line blackarck@gmail.com
@@ -29,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 - [20 questions game using AI](https://blackarck.itch.io/twenty-questions-with-ai-chatgpt) - Play Twenty question games with Chat GPT, User Interface is designed in GoDot
 - [Dotnet Console Game](https://github.com/blackarck/TerminalBlaster) - Play a shooter game in your console
 - LinkedIn scheduled app that posts comic every day, it is developed using Azure functions and Azure AI ( gpt4o), head to [LinkedIn](https://www.linkedin.com/in/viveks620/) URL to view same
+- [RenForge](https://github.com/blackarck/RenForge) - Preview-First File Renamer, A safe, deterministic bulk file renaming utility.
 
 ## Reddit Games
 - ⚔️ [Shadow & Steel](https://www.reddit.com/r/shadowsndsteel_dev/) - Reddit dungeon card game
