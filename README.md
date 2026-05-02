@@ -31,6 +31,8 @@ You can click the Preview link to take a look at your changes.
 - [Dotnet Console Game](https://github.com/blackarck/TerminalBlaster) - Play a shooter game in your console
 - LinkedIn scheduled app that posts comic every day, it is developed using Azure functions and Azure AI ( gpt4o), head to [LinkedIn](https://www.linkedin.com/in/viveks620/) URL to view same
 - [RenForge](https://github.com/blackarck/RenForge) - Preview-First File Renamer, A safe, deterministic bulk file renaming utility.
+- [Pixel Buster](https://blackarck.itch.io/pixel-blaster) - Pixel fast paced typing game
+- [LightLeaderboard](https://leaderboard.goproso.com) - Leaderboard as service for game developers
 
 ## Reddit Games
 - ⚔️ [Shadow & Steel](https://www.reddit.com/r/shadowsndsteel_dev/) - Reddit dungeon card game
