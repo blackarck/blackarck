@@ -40,7 +40,8 @@ You can click the Preview link to take a look at your changes.
 ## Games
 - [Sudoku App](https://sudoku.ioblitz.com) - Sudoku game developed in react with back end to support game save, compete with friends
 - [20 questions game using AI](https://blackarck.itch.io/twenty-questions-with-ai-chatgpt) - Play Twenty question games with Chat GPT, User Interface is designed in GoDot
-- [Dotnet Console Game](https://github.com/blackarck/TerminalBlaster) - Play a shooter game in your console
+- [Terminal Blaster - Dotnet Console Game](https://github.com/blackarck/TerminalBlaster) - Play a shooter game in your console
+- [Inkarcade - Dotnet Console Game Engine ](https://github.com/blackarck/inkarcade) - Make console dotnet game
 
 ## Discord Bot Projects
 - [NumberLogicGame Bot](https://discord.com/oauth2/authorize?client_id=1168555643939078215) - A bot using which you can play a number logic guessing game based on feedback on previous guess Stores Game state using API. Hosted on AWS, linked with SQLite DB
