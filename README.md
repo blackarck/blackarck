@@ -25,6 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 # Projects
 
+- [AskProso](https://askproso.ai) - AI Assistance for Enterprise
 - [RenForge](https://github.com/blackarck/RenForge) - Preview-First open source bulk file rename utility
 - [Askproso.ai](https://askproso.ai) - AI assistant platform for enterprise, track team's usage and provide multiple AI providers in one platform
 - [Workkudo.ai](https://workkudo.ai) - Virtual Kudos platform for teams 
